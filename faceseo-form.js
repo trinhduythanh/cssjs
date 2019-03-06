@@ -140,7 +140,7 @@ jQuery("#myModalthanh").html(formdiv);
 function thanhxet(){
 
 if(submittedform) {
-	window.location="https://diamondceladon.com.vn";
+	window.location="http://diamondceladon.com.vn";
 	
 	 if(document.cookie.indexOf("adf") == -1)
                    {
